@@ -28,7 +28,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.ap
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 build-mode = "module"
-
+module-prop-name = "Tiktok Revanced"
 
 [Reddit]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
